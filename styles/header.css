@@ -27,7 +27,6 @@
 }
 .container__imagem{
     padding: 1em;
-
 }
 .lista-menu{
     display: none;
@@ -87,6 +86,7 @@
     .opções__item{
         padding:  0 1em;
         text-transform: uppercase;
+        list-style-type: none;
     }
     .opções__link{
         text-decoration: none;
